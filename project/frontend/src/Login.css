@@ -1,0 +1,42 @@
+body {
+  text-align: center;
+  font-family: 'Roboto', sans-serif;
+  background-image: url(https://source.unsplash.com/Q7PclNhVRI0);
+  background-position: bottom;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100vh;
+  width: 100%;
+}
+.button_style {
+  margin-left: 10px !important;
+  margin-right: 10px;
+}
+
+.centerTable {
+  margin: 0px auto;
+}
+
+h2 {
+    color: black;
+}
+
+.Board_login{
+  background-color: bisque;
+  width: 50%;
+  margin-left: 25%;
+  border-radius: 5%;
+  padding: 10px;
+}
+.Board_register{
+  background-color:darksalmon;
+  width: 50%;
+  margin-left: 25%;
+  border-radius: 5%;
+  padding: 10px;
+}
+.x{
+  background-image: url(https://i.pinimg.com/474x/16/dd/74/16dd74535c9db54e47340b51d20d723d.jpg);
+  padding: 80px;
+  color: wheat;
+}
